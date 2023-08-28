@@ -54,4 +54,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falguni-androidster&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-![falguni's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=falguni-androidster&theme=react-dark)fa
+![falguni's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=falguni-androidster&theme=react-dark)
